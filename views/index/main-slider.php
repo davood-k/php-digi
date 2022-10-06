@@ -28,7 +28,7 @@
         <a class="carousel-control-next" href="#main-slider" data-slide="next">
             <i class="now-ui-icons arrows-1_minimal-left"></i>
         </a>
-    </section>
+    </section> 
     <script>
         $(document).ready(function () {
             $('.newcar:first').addClass("active");

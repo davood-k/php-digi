@@ -16,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/product/product-tabs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="4266">
               <caret line="237" column="90" selection-start-line="237" selection-start-column="90" selection-end-line="237" selection-end-column="90" />
             </state>
           </provider>
@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/models/model_product.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="478">
-              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -52,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
+            <state relative-caret-position="684">
               <caret line="38" selection-start-line="38" selection-end-line="48" selection-end-column="1" />
             </state>
           </provider>
@@ -272,16 +272,18 @@
       <workItem from="1664533378112" duration="2416000" />
       <workItem from="1664645292361" duration="2149000" />
       <workItem from="1664812802403" duration="2275000" />
+      <workItem from="1665044011331" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139051000" />
+    <option name="totallyTimeSpent" value="139644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -607,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="38" selection-start-line="38" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/product/product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3874">
@@ -623,7 +618,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/product/product-tabs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="4266">
           <caret line="237" column="90" selection-start-line="237" selection-start-column="90" selection-end-line="237" selection-end-column="90" />
         </state>
       </provider>
@@ -642,10 +637,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" selection-start-line="38" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/models/model_product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
         </state>
       </provider>
     </entry>
